@@ -1,0 +1,146 @@
+*{
+
+
+
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+}
+.nav-top ,a {
+    padding: 5px;
+text-decoration: none;
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.unl , #navli{
+
+
+
+padding: 7px;
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-around;
+}
+
+a{
+
+font-size: 16px;
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;
+    color: #232;
+}
+.head{
+display: flex;
+padding: 15px;
+font-size: 14px;
+font-family: Impact;
+font-weight: bolder;
+}
+
+
+
+.about{
+
+
+
+
+
+}
+
+
+
+.projects{
+
+
+
+
+
+
+}
+
+.deals{
+
+
+
+
+
+
+}
+
+.contact{
+
+
+
+}
+
+.conright ,#ifnd {
+padding: 4px;
+align-items: center;
+background-color: black;
+display: flex;
+flex-direction: row;
+font-size: 16px;
+justify-content: space-between;
+
+
+}
+
+
+
+.divider{
+
+
+
+
+    background-color: aliceblue;
+}
+
+
+#button{
+
+    color: rgb(253, 253, 253);
+    margin-left: 10px;
+    text-align: center;
+    border-radius:  20px;
+    width: 10%;
+    padding: 3px;
+    background-color: rgba(22, 211, 101, 0.938);
+    text-decoration: none;
+    box-sizing: border-box;
+    border-style: none;
+    font-size: 21px;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-border-radius:  20px;
+    -moz-border-radius:  20px;
+    -ms-border-radius:  20px;
+    -o-border-radius:  20px;
+}
+.contact{
+
+padding-left: 25px;
+
+
+padding-right: 25px;
+
+}
+label{
+
+
+
+
+    font-size: 20px;
+}
+.foot{
+
+
+
+
+
+
+}
